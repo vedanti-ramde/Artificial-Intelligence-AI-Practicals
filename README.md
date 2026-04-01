@@ -1,3 +1,4 @@
 # Artificial-Intelligence-AI-Practicals
-#Vedanti Ramde 
-#CS23153
+Vedanti Ramde 
+
+CS23153
